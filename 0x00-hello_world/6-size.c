@@ -10,8 +10,8 @@ int main(void)
 	char c;
 	int i;
 	long l;
-	float f;
 	double d;
+	float f;
 
 	printf("Size of a char:%u byte(s)\n", (unsigned int)sizeof(c));
 	printf("Size of an int:%u byte(s)\n", (unsigned int)sizeof(i));
