@@ -1,3 +1,9 @@
+#include <stdio.h>
+/**
+ * main - Empty
+ *
+ * return: Always 0
+ */
 int main(void)
 {
 	int num1, num2;
