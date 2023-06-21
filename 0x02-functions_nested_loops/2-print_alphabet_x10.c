@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet - Prints the alphabets from a-z x10
+ * print_alphabet_x10 - Prints the alphabets from a-z x10
  *
  * return: Nothing.
  */
@@ -19,9 +19,4 @@ void print_alphabet_x10(void)
 		_putchar('\n');
 	}
 }
-
-
-
-
-
 
