@@ -1,4 +1,4 @@
-#include "void"
+#include "main.h"
 /**
  * print_thousand - print out the digit in the thousand spot
  * @sum: Value to scan for thousand spot
