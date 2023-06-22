@@ -3,7 +3,6 @@
  * main - Prints a random number and states whether it
  * is positive or negative.
  *
- * Return: Always 0
  */
 void positive_or_negative(int i)
 {
@@ -14,5 +13,4 @@ void positive_or_negative(int i)
         else
                 printf("%d is zero\n", i);
 
-        return (0);
 }
