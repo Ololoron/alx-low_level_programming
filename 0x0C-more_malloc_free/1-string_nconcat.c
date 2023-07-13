@@ -6,7 +6,8 @@
  *
  * @s1: First string
  * @s2: Second string.
- * @n: unsinged integer 
+ * @n: unsinged integer
+ * Return: pointer to a newly located point in memory.
  */
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {
